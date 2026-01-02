@@ -1,7 +1,3 @@
-# 💫 About Me:
-## Hi 👋 I'm Kien Pham<br><br>I'm an Information Technology student with a strong interest in **Blockchain** and **Web3 development**.  <br>I enjoy building smart contracts, backend systems, and learning how decentralized applications work.<br><br>### 🔧 Tech Stack<br>- Languages: JavaScript, TypeScript, Solidity<br>- Backend: Node.js, Express<br>- Blockchain: Ethereum, Hardhat<br>- Database: MySQL<br>- Tools: Git, Docker<br><br>### 🌱 Currently learning<br>- Smart contract security<br>- Web3 system architecture<br><br>📫 Feel free to check out my repositories and connect with me!<br>
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/kienpt.pt/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kienpt04) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fbkienpt@gmail.com) 
 
